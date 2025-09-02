@@ -1,1 +1,2 @@
-this is a simple code of Rg and Storage 
+# demo-new
+new demo repo created, inprevious .gitignore file forgot to add
